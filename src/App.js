@@ -17,19 +17,22 @@ function App() {
 
 
   return (
-    <Router>
+    // <Router>
+    <div>
     <NavBar title='Utility' aboutText='About me'/>
       <div className="container my-3">
-        <Switch>
+        
+        {/* <Switch>
           <Route exact path="/about">
-            <About />
-          </Route>
-          <Route exact path="/">      
+            <About /> */}
+          {/* </Route>
+          <Route exact path="/">       */}
               <Form title="Enter your text to anaylse:"/>
-          </Route>
-        </Switch>
+          {/* </Route>
+        </Switch> */}
       </div>
-    </Router>
+      </div>
+    // </Router>
   );
 }
 
