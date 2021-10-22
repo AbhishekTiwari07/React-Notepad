@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types'
-
+import {Link} from 'react-router-dom'
 
 const NavBar = (props)=>{
 
@@ -17,7 +17,7 @@ const NavBar = (props)=>{
                 <Link className="nav-link active" aria-current="page" to="/">Home</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/">{props.aboutText}</Link>
+                <Link className="nav-link" to="/about">{props.aboutText}</Link>
               </li>
             </ul>
             <div className="custom-control custom-switch">
