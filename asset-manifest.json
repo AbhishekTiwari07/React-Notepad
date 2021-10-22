@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/React-Notepad/static/js/main.d13658c2.chunk.js",
+    "main.js.map": "/React-Notepad/static/js/main.d13658c2.chunk.js.map",
+    "runtime-main.js": "/React-Notepad/static/js/runtime-main.e219af7b.js",
+    "runtime-main.js.map": "/React-Notepad/static/js/runtime-main.e219af7b.js.map",
+    "static/js/2.0676b36a.chunk.js": "/React-Notepad/static/js/2.0676b36a.chunk.js",
+    "static/js/2.0676b36a.chunk.js.map": "/React-Notepad/static/js/2.0676b36a.chunk.js.map",
+    "index.html": "/React-Notepad/index.html",
+    "static/js/2.0676b36a.chunk.js.LICENSE.txt": "/React-Notepad/static/js/2.0676b36a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e219af7b.js",
+    "static/js/2.0676b36a.chunk.js",
+    "static/js/main.d13658c2.chunk.js"
+  ]
+}
